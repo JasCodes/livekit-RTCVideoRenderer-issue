@@ -1,0 +1,48 @@
+PODS:
+  - device_info_plus (0.0.1):
+    - Flutter
+  - Flutter (1.0.0)
+  - flutter_webrtc (0.9.4):
+    - Flutter
+    - WebRTC-SDK (= 104.5112.02)
+  - livekit_client (1.1.1):
+    - Flutter
+    - WebRTC-SDK (~> 104.5112.02)
+  - path_provider_ios (0.0.1):
+    - Flutter
+  - WebRTC-SDK (104.5112.02)
+
+DEPENDENCIES:
+  - device_info_plus (from `.symlinks/plugins/device_info_plus/ios`)
+  - Flutter (from `Flutter`)
+  - flutter_webrtc (from `.symlinks/plugins/flutter_webrtc/ios`)
+  - livekit_client (from `.symlinks/plugins/livekit_client/ios`)
+  - path_provider_ios (from `.symlinks/plugins/path_provider_ios/ios`)
+
+SPEC REPOS:
+  trunk:
+    - WebRTC-SDK
+
+EXTERNAL SOURCES:
+  device_info_plus:
+    :path: ".symlinks/plugins/device_info_plus/ios"
+  Flutter:
+    :path: Flutter
+  flutter_webrtc:
+    :path: ".symlinks/plugins/flutter_webrtc/ios"
+  livekit_client:
+    :path: ".symlinks/plugins/livekit_client/ios"
+  path_provider_ios:
+    :path: ".symlinks/plugins/path_provider_ios/ios"
+
+SPEC CHECKSUMS:
+  device_info_plus: e5c5da33f982a436e103237c0c85f9031142abed
+  Flutter: 50d75fe2f02b26cc09d224853bb45737f8b3214a
+  flutter_webrtc: aa130dfe1eca6625c2e2e51ce830abb495bdb06e
+  livekit_client: 103cfa760b28a5db82939a8548468bcb885f93ec
+  path_provider_ios: 14f3d2fd28c4fdb42f44e0f751d12861c43cee02
+  WebRTC-SDK: e0589abeb63db07a4ca1f45c82ba0f1a72e61622
+
+PODFILE CHECKSUM: f92a4c66ae37040c6641dceab1a5fdf4b7fd2129
+
+COCOAPODS: 1.11.3
